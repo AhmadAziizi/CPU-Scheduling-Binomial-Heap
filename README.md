@@ -114,7 +114,7 @@ The program displays:
 Compile:
 
 ```bash
-gcc binomial_heap_scheduler.c -o scheduler -lm
+gcc cpu_scheduler.c -o scheduler -lm
 ```
 
 Run:
