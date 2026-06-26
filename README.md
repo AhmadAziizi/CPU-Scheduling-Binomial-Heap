@@ -109,21 +109,6 @@ The program displays:
 
 ---
 
-## How to Run
-
-Compile:
-
-```bash
-gcc cpu_scheduler.c -o scheduler -lm
-```
-
-Run:
-
-```bash
-./scheduler
-```
-
----
 
 ## Academic Project
 
